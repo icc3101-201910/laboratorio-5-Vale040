@@ -1,0 +1,6 @@
+/Users/valeri123/Projects/Laboratorio-6/Laboratorio-6/bin/Debug/Laboratorio-6.exe
+/Users/valeri123/Projects/Laboratorio-6/Laboratorio-6/bin/Debug/Laboratorio-6.pdb
+/Users/valeri123/Projects/Laboratorio-6/Laboratorio-6/obj/x86/Debug/Laboratorio-6.csprojAssemblyReference.cache
+/Users/valeri123/Projects/Laboratorio-6/Laboratorio-6/obj/x86/Debug/Laboratorio-6.csproj.CoreCompileInputs.cache
+/Users/valeri123/Projects/Laboratorio-6/Laboratorio-6/obj/x86/Debug/Laboratorio-6.exe
+/Users/valeri123/Projects/Laboratorio-6/Laboratorio-6/obj/x86/Debug/Laboratorio-6.pdb
